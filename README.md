@@ -1,0 +1,10 @@
+THIS REPOSITORY HAS BEEN CREATED TO HOLD THE FILES REQUIRED TO RESPOND TO THE MOVIELENS PROJECT OF THE CAPSTONE COURSE FOR THE "DATA SCIENCE SERIES" PROFESSIONAL CERTIFICATE PROGRAM FROM HARVARDX/EDX.
+IT CONTAINS THE FOLLOWING FILES 
+1. movielens_capstone_v5.4.Rmd - RMarkdown document with the full text and code for the Report. Source of Truth for the rest. 
+2. movielens_capstone_v5.4.pdf - PDF knit from the RMarkdown document with the full text, some of the code and some of the outputs
+3. movielens_capstone_v5.4.R - R File extracted from the RMarkdown document uisng knitr purl
+4. genre_assignment.RData - R Binary Object File that contains the expansion of the Genres field into Individual Genre Fields for the Training Set. File provided as a convenience to save time. 
+5. genre_assignment_test.RData - R Binary Object File that contains the expansion of the Genres field into Individual Genre Fields for the Validation Set. File provided as a convenience to save time. 
+6. genre_assignment_edx.RData - R Binary Object File that contains the expansion of the Genres field into Individual Genre Fields for the "edx" Set. File provided as a convenience to save time. 
+7. genre_assignment_test_final.RData - R Binary Object File that contains the expansion of the Genres field into Individual Genre Fields for the "final_holdout_test" Set. File provided as a convenience to save time. 
+8. predicted_ratings_final_errors.RData - R Binary Object File that contains the errors for the predicted ratings for further analysis. File provided as a convenience to save time. 
